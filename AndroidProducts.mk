@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_primos2.mk
+    $(LOCAL_DIR)/liquid.mk
